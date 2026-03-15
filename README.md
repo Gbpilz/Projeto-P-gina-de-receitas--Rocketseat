@@ -1,1 +1,1 @@
-# Projeto-P-gina-de-receitas--Rocketseat
+# Projeto-Página-de-receitas--Rocketseat
